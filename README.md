@@ -9,6 +9,7 @@ Each skill is a self-contained package with instructions, scripts, and assets th
 | Skill | Description | Details |
 |-------|-------------|---------|
 | [brand-video](./brand-video/) | Generate animated brand intro videos with AI music and voiceover | [README →](./brand-video/README.md) |
+| [claude-code-mastery](./claude-code-mastery/) | Master Claude Code CLI — context management, workflows, subagents, automation | [README →](./claude-code-mastery/README.md) |
 
 ## Installation
 
