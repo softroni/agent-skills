@@ -141,6 +141,8 @@ Keep a **reject list with reasons** so you never re-check the same name.
 
 Lock the name only when: both .com/.app available (or purchasable), App Store clear, opp 75+.
 
+**After locking a name:** Update the Notion page title and scan all blocks for the old working name. Replace any references. Update local memory files and MEMORY.md with the final name.
+
 ## Output: Notion Article
 
 Create a Notion page under the Research parent page. Structure:
